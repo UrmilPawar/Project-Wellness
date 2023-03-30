@@ -12,6 +12,8 @@ import numpy as np
 import io
 import pickle
 from flask_cors import CORS
+import logging
+logging.basicConfig(level=logging.DEBUG)
 
 app = Flask(__name__)
 CORS(app)
