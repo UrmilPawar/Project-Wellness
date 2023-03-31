@@ -24,7 +24,7 @@ submitButton.addEventListener('click', (event) => {
     console.log(formData.get('email'));
     console.log(formData.get('message'));
     
-    fetch('https://project-wellness-1u4n.vercel.app/contacts', {
+    fetch('https://project-wellness-1u4n.vercel.app/WellPro/mysql/contacts', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
