@@ -59,3 +59,5 @@ Such A service is helpful for the people who live in remote or underdeveloped ar
 ![Chatbot2](https://github.com/UrmilPawar/Project-Wellness/blob/master/Images/Screenshot%20(1718).png?raw=true)
 
 ![Chatbot3](https://github.com/UrmilPawar/Project-Wellness/blob/master/Images/Screenshot%20(1719).png?raw=true)
+- Responsive functionalities
+
