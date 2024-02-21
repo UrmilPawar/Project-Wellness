@@ -2,6 +2,8 @@
 WellPro is a website that leverages Deep Learning to predict diseases or illnesses based on user's symptoms and images of affected body parts. With user-friendly interface WellPro helps users receive accurate diagnosis and reliable recommendations. Moreover, the platform facilitates users to provide feedback and opinions, which will further enhance the quality of the predictions. It's responsive design can help people to view this website effectively on any device. Additionally, WellPro offers chatbot services, providing quick and efficient resolution to any health-related queries.
 Such A service is helpful for the people who live in remote or underdeveloped areas having limited or no access to hospitals or dictors and even in the developed areas where overburdened healthcare systems are unable to provde services to each and every individual.
 
+Here is the main idea that was considered while building the model is that instead of ensemble modeling multiple models with the help of voting, the result ie the output feature vectors of each model are concatenated after pooling and then the resultant feature vector is passed to the ANN for further processing.
+
 
 
 
