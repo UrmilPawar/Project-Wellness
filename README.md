@@ -4,8 +4,8 @@ Such A service is helpful for the people who live in remote or underdeveloped ar
 
 Here, the main idea that was considered while building the model is that instead of ensemble modeling multiple models with the help of voting, the result i.e. the output feature vectors of each pre-trained model are concatenated after GlobalAveragePooling and then the resultant feature vector generated is passed to the ANN for further processing.
 
-
-
+### Following is the Youtube Link of the Project : 
+[WellPro](https://youtu.be/H5tqoZE24m4?si=JuWtwfzX91gebn9a)
 
 ## Services
 - Disease Prediction using symptoms
